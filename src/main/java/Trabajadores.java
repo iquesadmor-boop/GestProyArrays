@@ -32,12 +32,11 @@ public class Trabajadores {
         //  8. Iosu      20 E.
         for (int i = 0; i < trabajadores.length; i++) {
             System.out.printf("%2d. %-8s %3d E.\n",
-                    i+1,
+                    i + 1,
                     trabajadores[i].getNombre(),
                     trabajadores[i].getPrecioHora());
         }
-
-
     }
-
 }
+
+
