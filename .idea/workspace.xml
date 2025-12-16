@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28d1a554-4ad4-468b-bcb7-bfdd19c9bc60" name="Changes" comment="" />
+<<<<<<< HEAD
     <list default="true" id="e3312d61-55e4-44a4-9300-46a6437b37fe" name="Changes" comment="" />
+=======
+>>>>>>> d8d4d6ecc6c962357f3361bc4e4042b6e6060d49
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
