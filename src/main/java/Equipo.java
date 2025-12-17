@@ -28,7 +28,7 @@ public class Equipo {
     }
 
     public boolean tieneLider() {
-        // TODO 21: Saber si el equipo tiene líder
+        // TODO 21: ELOY COMEPOLLAS 3000
         return false;
     }
 
